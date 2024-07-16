@@ -1,4 +1,6 @@
+Basic Machine Learning project using Linear Regression
 Columns in dataset
+
 CRIM: Per capita crime rate by town
 ZN: Proportion of residential land zoned for lots over 25,000 sq. ft
 INDUS: Proportion of non-retail business acres per town
